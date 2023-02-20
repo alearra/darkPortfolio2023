@@ -6,11 +6,11 @@
     align-items: center;
     justify-content: center;
     font-family: 'D-DIN', sans-serif;
-    background-color: #222222;
+    background-color: #0F0F0F;
     font-size: 20px;
-    color: #B6DEC9;
+    color: #AAAAAA;
     font-weight: 400;
-    border-bottom: 1px dashed  #B6DEC9;
+    border-bottom: 1px dashed  #AAAAAA;
 }
 
 

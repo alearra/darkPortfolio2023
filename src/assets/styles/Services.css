@@ -4,7 +4,7 @@
     flex-direction: column;
     align-items:center;
     justify-content: center;
-    background-color: #EFEFEF;
+    background-color: #fff;
     width: 100%;
     height: 100vh;
 }
@@ -20,7 +20,7 @@
 .services h3 {
     margin-bottom: 30px;
     font-size: 60px;
-    color: #323232;
+    color: #000;
 }
 
 .services-items {
@@ -41,7 +41,7 @@
 }
 
 .items p b {
-    color:#323232;
+    color:#000;
     line-height: 1.5;
     font-size: 16px;
     text-align: start;
@@ -49,7 +49,7 @@
 }
 
 .items p {
-    color:#323232;
+    color:#000;
     line-height: 1.5;
     font-size: 16px;
     text-align: start;
